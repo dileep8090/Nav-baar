@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nv
+{
+  background-color: rgb(74, 74, 250);
+    color: white;
+    height: 66px;
+}
+.nv ul{
+    display:flex;
+    list-style-type: none;
+    align-items: center;   
+}
+.nv ul li{
+    padding: 0 60px;
+    
+    cursor: pointer;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+    font-size:larger;
+    font-size: 2.5rem;
+}
+.logo img{
+    width:100px;
+    padding: 0 5px;
+ 
+}
+.box{
+    text-align:right;
+     
+}
