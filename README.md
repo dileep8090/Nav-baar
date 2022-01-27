@@ -1,2 +1,2 @@
 # Nav-baar
-In this navbaar hardcoded code written 
+In this navbaar hardcoded code written  but not Resposive ..
